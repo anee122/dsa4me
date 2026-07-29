@@ -28,3 +28,21 @@ int main(){
 s.size()//do dai xau
 s.lenght()//do dai xau (dac thu cho string)
 s[i]; //truy cap vao ky tu thu i cua s
+//== != : so sanh 2 xau(giong hay khac)
+//< > <= >= : so sanh 2 xau (theo thu tu tu dien voi nhau)
+
+//vong lap for each : giup duyet tung ky tu cua xau hoac mang ...
+for (char x:s) // duyet tung ky tu cua s 
+for (auto x:s) // tuong tu nhung thuat toan auto co the chuyen doi nhanh dua cac kieu du lieu ma k can khai bao cu the
+
+//stringstream (lien quan den cac bai tap tach tu va sd tu trong xau)
+//stringstream : bien xau s thanh 1 luong
+//CODE:
+stringstream(ss);
+string word; //dung de luu cac tu
+while(ss>>word) cout << word << endl;
+
+//trong TH co cach ky tu khac ngan cach
+//VD : ptit-code
+//Ta dung:
+while(getline(ss,word,'-')) cout << word << endl;
