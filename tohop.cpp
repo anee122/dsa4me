@@ -11,3 +11,4 @@ ll nCk (ll n,ll k){
 	}
 	return res;
 }
+
