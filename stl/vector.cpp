@@ -17,5 +17,19 @@ int main(){
     int val = 0;
     vector<int> v4(n,val);
 
+    vector<int> v;
+    v.push_back(1); // them phan tu 1 vao cuoi danh sach
+
+    cout << "Kich thuoc" << v.size() << endl;
+    //duyet chi so vector
+
+    for(int i = 0;i<v.size();i++){
+        cout << v[i] << " ";
+    }
+
+    //duyet bang for-each
+
+    for(auto x:v) cout << v <<" ";
+
     return 0;
 }
