@@ -1,0 +1,1 @@
+{"name":"Local: quayluitohopchapkcuan","url":"d:\\.vsc\\dsa4me\\quayluinhanhcan\\quayluitohopchapkcuan.cpp","tests":[{"id":1788583416958,"input":"4 2","output":"1 2\n1 3\n1 4\n2 3\n2 4\n3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.vsc\\dsa4me\\quayluinhanhcan\\quayluitohopchapkcuan.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: quayluihoanvi","url":"d:\\.vsc\\dsa4me\\quayluinhanhcan\\quayluihoanvi.cpp","tests":[{"id":1788582362064,"input":"3","output":"1 2 3\n1 3 2\n2 1 3\n2 3 1\n3 1 2\n3 2 1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.vsc\\dsa4me\\quayluinhanhcan\\quayluihoanvi.cpp","group":"local","local":true}

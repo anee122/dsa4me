@@ -1,0 +1,1 @@
+{"name":"Local: upperbound","url":"d:\\.vsc\\dsa4me\\chiadetri\\upperbound.cpp","tests":[{"id":1789788551673,"input":"7 3\n1 3 3 3 4 5 6","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.vsc\\dsa4me\\chiadetri\\upperbound.cpp","group":"local","local":true}
